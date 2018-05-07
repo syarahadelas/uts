@@ -1,0 +1,29 @@
+<title>DAFTAR NAMA MAHASISWA </title>
+<table>
+	<tr>
+		<td>Nama</td>
+		<td>NIM</td>
+		<td>Kelas</td>
+	</tr>
+
+	<tr>
+		<td>Syarah Adela Shandi</td>
+		<td>1755301054</td>
+		<td>1TIB</td>
+	</tr>
+		<tr>
+		<td>Melda Lestari</td>
+		<td>1744301078</td>
+		<td>1TIB</td>
+	</tr>
+	<tr>
+		<td>Jenni Aprilia</td>
+		<td>1755301062</td>
+		<td>1TIB</td>
+	</tr>
+	<tr>
+		<td>Rahma Mawaddah f</td>
+		<td>1755301008</td>
+		<td>1TIB</td>
+	</tr>
+</table>
